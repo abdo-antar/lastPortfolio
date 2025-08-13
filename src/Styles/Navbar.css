@@ -1,0 +1,23 @@
+/* .container{
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+    height: 50px;
+    background-color: #282c34;
+    color: white;
+    font-size: 16px;
+    padding: 0 20px;
+
+} */
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+ul li{
+    cursor: pointer;
+}
+
+
